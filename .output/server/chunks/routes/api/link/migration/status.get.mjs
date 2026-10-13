@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/link/migration/status.get");import{e as o,S as t}from"../../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const r=o(async o=>{const r=await t(o.context.cloudflare.env);return{completed:null!==r,marker:r}});export{r as default};globalThis.__timing__.logEnd("Load chunks/routes/api/link/migration/status.get");
+//# sourceMappingURL=status.get.mjs.map

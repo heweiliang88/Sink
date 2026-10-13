@@ -1,0 +1,1 @@
+{"version":3,"file":"count.get.mjs","sources":["../../../../../../server/api/link/count.get.ts"],"names":["count_get","eventHandler","async","event","query","getValidatedQuery","LinkFilterQuerySchema","parse","count","countLinks"],"mappings":"0QAuCA,MAAAA,EAAAC,EAAAC,MAAAC,IACA,MAAAC,QAAAC,EAAAF,EAAAG,EAAAC,OACA,MAAA,CAAAC,YAAAC,EAAAN,EAAAC"}

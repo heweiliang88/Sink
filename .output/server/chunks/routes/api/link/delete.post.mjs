@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/link/delete.post");import{e as o,l as t,h as e,D as s,m as i}from"../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const r=o(async o=>{t(o,"delete");const{slug:r}=await e(o,s.parse);await i(o,r)});export{r as default};globalThis.__timing__.logEnd("Load chunks/routes/api/link/delete.post");
+//# sourceMappingURL=delete.post.mjs.map

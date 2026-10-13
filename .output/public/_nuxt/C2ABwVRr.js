@@ -1,0 +1,1 @@
+import{e as r,f as e,g as u}from"./5kTGxU50.js";function p(){const{github:a}=r(),o=a.replace("https://github.com/",""),{data:t}=e(`https://api.github.com/repos/${o}`,{transform:s=>({stars:s.stargazers_count,forks:s.forks_count})},"$Uq0rHKDJzQ");return{rawStats:u(()=>({stars:t.value?.stars??6e3,forks:t.value?.forks??4e3}))}}export{p as u};

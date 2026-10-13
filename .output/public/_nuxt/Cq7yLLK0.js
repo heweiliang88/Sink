@@ -1,0 +1,1 @@
+import{d as a,o as n,a as o,n as t,u as l,b as r}from"./5kTGxU50.js";const m=a({__name:"Skeleton",props:{class:{type:[Boolean,null,String,Object,Array]}},setup(e){const s=e;return(c,p)=>(n(),o("div",{"data-slot":"skeleton",class:t(l(r)("bg-muted rounded-xl animate-pulse",s.class))},null,2))}});export{m as _};

@@ -1,0 +1,1 @@
+import{s as e,p as n}from"./DqdRrAUT.js";function i(a,s){return{path:"/dashboard/link",query:s?e(n(s,!1),{slug:a,allowSlugs:!1}):{slug:a}}}function o(a){return`/dashboard/link?slug=${encodeURIComponent(a)}`}export{o as a,i as g};

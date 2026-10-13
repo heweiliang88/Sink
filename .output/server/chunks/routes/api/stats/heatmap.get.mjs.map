@@ -1,0 +1,1 @@
+{"version":3,"file":"heatmap.get.mjs","sources":["../../../../../../server/api/stats/heatmap.get.ts"],"names":["heatmap_get","eventHandler","async","event","query","getValidatedQuery","HeatmapQuerySchema","parse","useWAE","buildHeatmapQuery"],"mappings":"uRAAA,MAAAA,EAAAC,EAAAC,MAAAC,IACA,MAAAC,QAAAC,EAAAF,EAAAG,EAAAC,OACA,OAAAC,EAAAL,EAAAM,EAAAL,EAAAD"}

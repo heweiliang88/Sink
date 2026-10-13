@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/link/edit.put");import{e as o,l as t,h as i,E as r,q as s,k as a}from"../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const e=o(async o=>{t(o,"edit");const e=await i(o,r.parse),n=await s(o,e);return a(o,201),n});export{e as default};globalThis.__timing__.logEnd("Load chunks/routes/api/link/edit.put");
+//# sourceMappingURL=edit.put.mjs.map

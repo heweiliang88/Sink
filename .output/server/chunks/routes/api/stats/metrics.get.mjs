@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/stats/metrics.get");import{e as t,g as o,aD as s,a8 as r,aE as a}from"../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const e=t(async t=>{const e=await o(t,s.parse);return r(t,a(e,t))});export{e as default};globalThis.__timing__.logEnd("Load chunks/routes/api/stats/metrics.get");
+//# sourceMappingURL=metrics.get.mjs.map

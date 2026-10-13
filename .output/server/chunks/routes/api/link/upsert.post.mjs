@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/link/upsert.post");import{e as o,h as t,C as s,a6 as r,k as a}from"../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const e=o(async o=>{const e=await t(o,s.parse),i=await r(o,e);return"created"===i.status&&a(o,201),i});export{e as default};globalThis.__timing__.logEnd("Load chunks/routes/api/link/upsert.post");
+//# sourceMappingURL=upsert.post.mjs.map

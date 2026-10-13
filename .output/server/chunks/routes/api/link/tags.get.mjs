@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/link/tags.get");import{e as o,a5 as t}from"../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const i=o(async o=>await t(o));export{i as default};globalThis.__timing__.logEnd("Load chunks/routes/api/link/tags.get");
+//# sourceMappingURL=tags.get.mjs.map

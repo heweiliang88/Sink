@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/location.get");import{e as o}from"../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const t=o(o=>{const{cloudflare:t}=o.context,{request:{cf:e}}=t;return{latitude:null==e?void 0:e.latitude,longitude:null==e?void 0:e.longitude}});export{t as default};globalThis.__timing__.logEnd("Load chunks/routes/api/location.get");
+//# sourceMappingURL=location.get.mjs.map

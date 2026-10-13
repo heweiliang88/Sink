@@ -1,0 +1,2 @@
+globalThis.__timing__.logStart("Load chunks/routes/api/stats/heatmap.get");import{e as t,g as o,aF as a,a8 as s,aG as r}from"../../../nitro/nitro.mjs";import"node:buffer";import"node:process";import"cloudflare:workers";import"node:events";import"node:timers";import"node:crypto";const e=t(async t=>{const e=await o(t,a.parse);return s(t,r(e,t))});export{e as default};globalThis.__timing__.logEnd("Load chunks/routes/api/stats/heatmap.get");
+//# sourceMappingURL=heatmap.get.mjs.map

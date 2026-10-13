@@ -1,0 +1,1 @@
+{"version":3,"file":"delete.post.mjs","sources":["../../../../../../server/api/link/delete.post.ts"],"names":["delete_post","eventHandler","async","event","assertLinkWritesAllowed","slug","readValidatedBody","DeleteLinkSchema","parse","removeLink"],"mappings":"mRAuBA,MAAAA,EAAAC,EAAAC,MAAAC,IACAC,EAAAD,EAAA,UACA,MAAAE,KAAAA,SAAAC,EAAAH,EAAAI,EAAAC,aACAC,EAAAN,EAAAE"}
