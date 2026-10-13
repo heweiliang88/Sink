@@ -1,5 +1,8 @@
 name: Deploy Sink to Cloudflare Workers
 
+# 触发方式：push 到 master，或在 Actions 页面手动 Run workflow
+# 部署资源：D1 sink / KV sink / R2 sink（Account bd180d635d64d5d30a04ae372e13c03b）
+
 on:
   push:
     branches: [master]
